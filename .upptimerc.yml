@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: spollock.ca
     url: https://spollock.ca
-  - name: spollock.ca
-    url: https://spollock.ca
-  - name: spollock.dev
-    url: https://spollock.dev
-  - name: spollock.io
-    url: https://spollock.io
+  - name: srepollock.ca
+    url: https://srepollock.ca
+  - name: srepollock.dev
+    url: https://srepollock.dev
+  - name: srepollock.io
+    url: https://srepollock.io
   - name: spollock.xyz
     url: https://spollock.xyz
   - name: Discord
