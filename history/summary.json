@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-17": 2,
+      "2022-04-17": 819,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
       "2022-04-14": 1440,
@@ -59,7 +59,7 @@
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-04-17": 2,
+      "2022-04-17": 819,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
       "2022-04-14": 1440,
@@ -450,9 +450,9 @@
     "url": "https://help.netflix.com/en/is-netflix-down",
     "icon": "https://favicons.githubusercontent.com/help.netflix.com",
     "slug": "netflix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -461,7 +461,9 @@
     "timeWeek": 479,
     "timeMonth": 479,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-17": 0
+    }
   },
   {
     "name": "PrimeVideo",
