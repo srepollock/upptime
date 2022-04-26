@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-26": 2,
+      "2022-04-26": 223,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
@@ -68,7 +68,7 @@
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2022-04-26": 2,
+      "2022-04-26": 223,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
@@ -414,18 +414,20 @@
     "url": "https://www.snapchat.com/",
     "icon": "https://favicons.githubusercontent.com/www.snapchat.com",
     "slug": "snapchat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 942,
-    "timeDay": 162,
-    "timeWeek": 1702,
-    "timeMonth": 942,
-    "timeYear": 942,
-    "dailyMinutesDown": {}
+    "time": 905,
+    "timeDay": 177,
+    "timeWeek": 1551,
+    "timeMonth": 905,
+    "timeYear": 905,
+    "dailyMinutesDown": {
+      "2022-04-26": 0
+    }
   },
   {
     "name": "Wikipedia",
