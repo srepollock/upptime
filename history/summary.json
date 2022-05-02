@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-02": 170,
+      "2022-05-02": 217,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
@@ -74,7 +74,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2022-05-02": 170,
+      "2022-05-02": 217,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
@@ -482,19 +482,19 @@
     "url": "https://help.netflix.com/en/is-netflix-down",
     "icon": "https://favicons.githubusercontent.com/help.netflix.com",
     "slug": "netflix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 318,
-    "timeWeek": 546,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 505,
+    "timeDay": 303,
+    "timeWeek": 514,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 47
     }
   },
   {
