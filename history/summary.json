@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-03": 846,
+      "2022-05-03": 1112,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
@@ -75,7 +75,7 @@
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2022-05-03": 846,
+      "2022-05-03": 1112,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
@@ -429,18 +429,17 @@
     "icon": "https://favicons.githubusercontent.com/www.snapchat.com",
     "slug": "snapchat",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1551,
     "timeDay": 3630,
     "timeWeek": 2303,
     "timeMonth": 1551,
     "timeYear": 1551,
     "dailyMinutesDown": {
-      "2022-05-03": 7,
       "2022-04-26": 18
     }
   },
@@ -505,18 +504,20 @@
     "url": "https://primevideo.com",
     "icon": "https://favicons.githubusercontent.com/primevideo.com",
     "slug": "prime-video",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 468,
-    "timeWeek": 586,
-    "timeMonth": 638,
-    "timeYear": 638,
-    "dailyMinutesDown": {}
+    "time": 626,
+    "timeDay": 405,
+    "timeWeek": 556,
+    "timeMonth": 626,
+    "timeYear": 626,
+    "dailyMinutesDown": {
+      "2022-05-03": 0
+    }
   },
   {
     "name": "Disney+",
