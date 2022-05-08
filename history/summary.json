@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-08": 873,
+      "2022-05-08": 880,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
@@ -80,7 +80,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-05-08": 873,
+      "2022-05-08": 880,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
@@ -420,19 +420,19 @@
     "url": "https://instagram.com",
     "icon": "https://favicons.githubusercontent.com/instagram.com",
     "slug": "instagram",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 574,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 979,
+    "timeDay": 659,
     "timeWeek": 829,
-    "timeMonth": 984,
-    "timeYear": 984,
+    "timeMonth": 979,
+    "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-05-08": 0
+      "2022-05-08": 8
     }
   },
   {
@@ -441,18 +441,17 @@
     "icon": "https://favicons.githubusercontent.com/www.snapchat.com",
     "slug": "snapchat",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 2266,
     "timeDay": 4732,
     "timeWeek": 4414,
     "timeMonth": 2266,
     "timeYear": 2266,
     "dailyMinutesDown": {
-      "2022-05-08": 7,
       "2022-04-26": 18
     }
   },
