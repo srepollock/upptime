@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-12": 880,
+      "2022-05-12": 886,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
@@ -84,7 +84,7 @@
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2022-05-12": 880,
+      "2022-05-12": 886,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
@@ -158,19 +158,19 @@
     "url": "https://discordstatus.com/",
     "icon": "https://favicons.githubusercontent.com/discordstatus.com",
     "slug": "discord",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 236,
-    "timeWeek": 297,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 325,
+    "timeDay": 392,
+    "timeWeek": 328,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {
-      "2022-05-12": 0
+      "2022-05-12": 6
     }
   },
   {
