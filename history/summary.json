@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-15": 2,
+      "2022-05-15": 970,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -87,7 +87,7 @@
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2022-05-15": 2,
+      "2022-05-15": 970,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -442,7 +442,7 @@
     "uptimeYear": "100.00%",
     "time": 945,
     "timeDay": 566,
-    "timeWeek": 763,
+    "timeWeek": 797,
     "timeMonth": 893,
     "timeYear": 945,
     "dailyMinutesDown": {}
@@ -452,18 +452,19 @@
     "url": "https://www.snapchat.com/",
     "icon": "https://favicons.githubusercontent.com/www.snapchat.com",
     "slug": "snapchat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 2724,
-    "timeDay": 230,
-    "timeWeek": 4305,
-    "timeMonth": 2972,
-    "timeYear": 2724,
+    "time": 2686,
+    "timeDay": 181,
+    "timeWeek": 3943,
+    "timeMonth": 2927,
+    "timeYear": 2686,
     "dailyMinutesDown": {
+      "2022-05-15": 0,
       "2022-04-26": 18
     }
   },
