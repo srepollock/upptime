@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 994,
+      "2022-06-18": 1321,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -121,7 +121,7 @@
     "timeMonth": 184,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-06-18": 994,
+      "2022-06-18": 1321,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -232,9 +232,9 @@
     "url": "https://discordstatus.com/",
     "icon": "https://favicons.githubusercontent.com/discordstatus.com",
     "slug": "discord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -243,7 +243,9 @@
     "timeWeek": 299,
     "timeMonth": 342,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-18": 0
+    }
   },
   {
     "name": "Github",
@@ -521,18 +523,17 @@
     "icon": "https://favicons.githubusercontent.com/www.snapchat.com",
     "slug": "snapchat",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 2518,
     "timeDay": 3126,
     "timeWeek": 2086,
     "timeMonth": 2464,
     "timeYear": 2518,
     "dailyMinutesDown": {
-      "2022-06-18": 14,
       "2022-04-26": 18
     }
   },
