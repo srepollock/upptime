@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 975,
+      "2022-06-21": 990,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -124,7 +124,7 @@
     "timeMonth": 189,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-06-21": 975,
+      "2022-06-21": 990,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -606,19 +606,19 @@
     "url": "https://primevideo.com",
     "icon": "https://favicons.githubusercontent.com/primevideo.com",
     "slug": "prime-video",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 481,
-    "timeWeek": 699,
-    "timeMonth": 666,
-    "timeYear": 642,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 639,
+    "timeDay": 464,
+    "timeWeek": 669,
+    "timeMonth": 659,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 7
     }
   },
   {
