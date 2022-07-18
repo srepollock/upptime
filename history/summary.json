@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-18": 2,
+      "2022-07-18": 686,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-07-18": 2,
+      "2022-07-18": 686,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -292,18 +292,19 @@
     "url": "https://discordstatus.com/",
     "icon": "https://favicons.githubusercontent.com/discordstatus.com",
     "slug": "discord",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 395,
     "timeDay": 509,
     "timeWeek": 549,
     "timeMonth": 517,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2022-07-18": 3,
       "2022-06-21": 20
     }
   },
@@ -456,28 +457,30 @@
     "url": "https://medium.statuspage.io/",
     "icon": "https://favicons.githubusercontent.com/medium.statuspage.io",
     "slug": "medium",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 383,
     "timeWeek": 407,
     "timeMonth": 329,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 3
+    }
   },
   {
     "name": "Notion",
     "url": "https://status.notion.so/",
     "icon": "https://favicons.githubusercontent.com/status.notion.so",
     "slug": "notion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
@@ -485,17 +488,19 @@
     "timeWeek": 471,
     "timeMonth": 417,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 2
+    }
   },
   {
     "name": "Twitter",
     "url": "https://api.twitterstat.us/",
     "icon": "https://favicons.githubusercontent.com/api.twitterstat.us",
     "slug": "twitter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
@@ -503,7 +508,9 @@
     "timeWeek": 361,
     "timeMonth": 310,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 2
+    }
   },
   {
     "name": "Facebook",
@@ -528,10 +535,10 @@
     "url": "https://status.twitch.tv/",
     "icon": "https://favicons.githubusercontent.com/status.twitch.tv",
     "slug": "twitch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
@@ -539,17 +546,19 @@
     "timeWeek": 443,
     "timeMonth": 355,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 1
+    }
   },
   {
     "name": "Reddit",
     "url": "https://reddit.statuspage.io/",
     "icon": "https://favicons.githubusercontent.com/reddit.statuspage.io",
     "slug": "reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 431,
@@ -557,7 +566,9 @@
     "timeWeek": 532,
     "timeMonth": 491,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 1
+    }
   },
   {
     "name": "Instagram",
@@ -589,9 +600,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 2533,
-    "timeDay": 5894,
+    "timeDay": 4032,
     "timeWeek": 2793,
-    "timeMonth": 2669,
+    "timeMonth": 2526,
     "timeYear": 2533,
     "dailyMinutesDown": {
       "2022-06-22": 15,
@@ -663,11 +674,11 @@
     "icon": "https://favicons.githubusercontent.com/primevideo.com",
     "slug": "prime-video",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 697,
     "timeDay": 551,
     "timeWeek": 1272,
