@@ -1,7 +1,7 @@
 url: https://api.twitterstat.us/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-07-18T11:24:08.181Z
+status: up
+code: 200
+responseTime: 358
+lastUpdated: 2022-07-18T11:30:33.147Z
 startTime: Tue Apr 12 2022 19:21:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
