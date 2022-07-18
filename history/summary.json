@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-18": 965,
+      "2022-07-18": 1007,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-07-18": 965,
+      "2022-07-18": 1007,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -591,7 +591,7 @@
     "time": 2533,
     "timeDay": 4032,
     "timeWeek": 2793,
-    "timeMonth": 2526,
+    "timeMonth": 2576,
     "timeYear": 2533,
     "dailyMinutesDown": {
       "2022-06-22": 15,
@@ -682,19 +682,19 @@
     "url": "https://disneyplus.com",
     "icon": "https://favicons.githubusercontent.com/disneyplus.com",
     "slug": "disney",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 525,
-    "timeDay": 564,
-    "timeWeek": 458,
+    "timeDay": 547,
+    "timeWeek": 460,
     "timeMonth": 477,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2022-07-18": 1
+      "2022-07-18": 42
     }
   }
 ]
